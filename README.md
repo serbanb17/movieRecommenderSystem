@@ -15,3 +15,5 @@ http://nicolas-hug.com/blog/matrix_facto_1
 **train<nolink>.py** - Trains the model using mf<nolink>.py and saves the output.  
 **test<nolink>.py** - Uses the trained model from the above script to test it's accuracy.  
 **main<nolink>.py** - Downloads the dataset from MovieLens url and runs the above scripts in order.  
+
+Part of Bachelor's project. Used to recommend events for users.
